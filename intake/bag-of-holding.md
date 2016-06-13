@@ -50,7 +50,7 @@ https://www.owasp.org/index.php/OWASP_AppSec_Pipeline#tab=Pipeline_Design_Patter
 
 ### CI/CD Plugins
 
-- 
+-
 
 ### Data Sent to the Cloud
 
