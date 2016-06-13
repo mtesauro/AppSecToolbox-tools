@@ -6,7 +6,7 @@ Bag of Holding centers around an application. Each application can have one or m
 
 ### URL
 
-https://github.com/PearsonEducation/bag-of-holding
+https://github.com/aparsons/bag-of-holding
 
 ### Pipeline Position
 
@@ -18,7 +18,7 @@ Mangement
 
 ### License
 
-Open Source
+Apache License, Version 2.0
 
 ### API Coverage
 
@@ -32,17 +32,17 @@ REST
 
 -
 
-### Cloud Scalable
+### Scaling Architecture
 
-Yes
+On Prem
 
 ### Run as a Service
 
-Yes
+No
 
 ### Pipeline Example
 
-Yes
+https://www.owasp.org/index.php/OWASP_AppSec_Pipeline#tab=Pipeline_Design_Patterns
 
 ### Client Libraries
 
@@ -58,5 +58,4 @@ No
 
 ### Last Evaluated
 
-Thu, 15 Oct 2015 18:41:31 -0500
-
+Mon, 13 Jun 2016 09:59:58 -0500

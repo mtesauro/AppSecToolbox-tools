@@ -14,7 +14,7 @@
 
 ### Tool Type
 
-[One or more of the following: Management, Workflow, DAST, SAST, CI/CD
+[One or more of the following: Management, Workflow, DAST, SAST, CI/CD]
 
 ### License
 
@@ -38,7 +38,7 @@
 
 ### Run as a Service
 
-[Yes or No with optional modifiers of SaaS, Horizontal-Scaling, On Prem, Containerized, See Notes]
+[Yes or No with optional modifiers of Commercial SaaS, FLOSS SaaS, Containerized, See Notes]
 
 ### Pipeline Example
 
